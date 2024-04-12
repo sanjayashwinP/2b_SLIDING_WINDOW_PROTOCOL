@@ -1,5 +1,5 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
-## NAME:SANJAY AHWIN P
+## NAME:SANJAY ASHWIN P
 ## REG NO:212223040181
 ## AIM
 To write a python program to perform sliding window protocol
